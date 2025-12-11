@@ -1,0 +1,68 @@
+Region,M49 Code,Country,Household Estimate (kg/capita/year),Household Estimate (Tonnes/year),Confidence
+Australia and New Zealand,36,Australia,98,"2,559,065",High confidence
+Australia and New Zealand,554,New Zealand,61,"316,590",High confidence
+Central Asia,398,Kazakhstan,88,"1,708,990",Very low confidence
+Central Asia,417,Kyrgyzstan,86,"568,288",Very low confidence
+Central Asia,762,Tajikistan,86,"852,861",Very low confidence
+Central Asia,795,Turkmenistan,88,"566,433",Very low confidence
+Central Asia,860,Uzbekistan,86,"2,968,299",Very low confidence
+Eastern Asia,156,China,76,"108,667,369",Medium confidence
+Eastern Asia,344,China Hong Kong SAR,101,"759,923",Medium confidence
+Eastern Asia,392,Japan,60,"7,398,006",High confidence
+Eastern Asia,496,Mongolia,18,"60,364",Medium confidence
+Eastern Asia,410,Republic of Korea,95,"4,921,086",Medium confidence
+Eastern Europe,100,Bulgaria,26,"176,280",Eurostat
+Eastern Europe,203,Czechia,69,"723,810",Eurostat
+Eastern Europe,348,Hungary,66,"658,020",Eurostat
+Eastern Europe,616,Poland,60,"2,391,600",Eurostat
+Eastern Europe,643,Russian Federation,33,"4,829,772",Medium confidence
+Latin America and the Caribbean,32,Argentina,91,"4,156,798",Low confidence
+Latin America and the Caribbean,76,Brazil,94,"20,289,630",Medium confidence
+Latin America and the Caribbean,170,Colombia,70,"3,653,302",Medium confidence
+Latin America and the Caribbean,214,Dominican Republic,160,"1,799,544",Medium confidence
+Latin America and the Caribbean,218,Ecuador,96,"1,727,535",Medium confidence
+Latin America and the Caribbean,388,Jamaica,86,"243,364",High confidence
+Latin America and the Caribbean,484,Mexico,105,"13,368,447",Medium confidence
+Latin America and the Caribbean,604,Peru,88,"2,983,735",Medium confidence
+Latin America and the Caribbean,862,Venezuela,93,"2,626,859",Medium confidence
+Northern Africa,818,Egypt,163,"18,085,437",Medium confidence
+Northern Africa,434,Libya,84,"572,937",Medium confidence
+Northern Africa,504,Morocco,113,"4,219,805",Very low confidence
+Northern Africa,788,Tunisia,172,"2,121,810",Medium confidence
+Northern America,124,Canada,79,"3,019,925",High confidence
+Northern America,840,United States of America,73,"24,716,539",High confidence
+Northern Europe,208,Denmark,79,"464,520",Eurostat
+Northern Europe,233,Estonia,61,"81,130",Eurostat
+Northern Europe,246,Finland,53,"293,620",Eurostat
+Northern Europe,352,Iceland,75,"27,886",Low confidence
+Northern Europe,372,Ireland,48,"240,960",Eurostat
+Northern Europe,428,Latvia,82,"151,700",Eurostat
+Northern Europe,440,Lithuania,86,"236,500",Eurostat
+Northern Europe,578,Norway,78,"423,540",Eurostat
+Northern Europe,752,Sweden,61,"643,550",Eurostat
+Northern Europe,826,United Kingdom,76,"5,097,005",High confidence
+South-eastern Asia,116,Cambodia,85,"1,419,831",Medium confidence
+South-eastern Asia,360,Indonesia,53,"14,728,364",Medium confidence
+South-eastern Asia,458,Malaysia,81,"2,754,808",Medium confidence
+South-eastern Asia,608,Philippines,26,"2,954,580",Medium confidence
+South-eastern Asia,702,Singapore,68,"409,182",Medium confidence
+South-eastern Asia,764,Thailand,86,"6,180,468",Medium confidence
+South-eastern Asia,704,Viet Nam,72,"7,079,811",Medium confidence
+Southern Asia,50,Bangladesh,82,"14,101,956",Medium confidence
+Southern Asia,64,Bhutan,19,"15,072",High confidence
+Southern Asia,356,India,55,"78,192,338",Medium confidence
+Southern Asia,586,Pakistan,130,"30,754,726",Medium confidence
+Southern Asia,144,Sri Lanka,76,"1,656,148",Medium confidence
+Sub-Saharan Africa,72,Botswana,50,"132,594",Medium confidence
+Sub-Saharan Africa,231,Ethiopia,69,"8,543,382",Medium confidence
+Sub-Saharan Africa,288,Ghana,84,"2,812,571",High confidence
+Sub-Saharan Africa,404,Kenya,81,"4,351,168",Medium confidence
+Sub-Saharan Africa,566,Nigeria,113,"24,791,826",Medium confidence
+Sub-Saharan Africa,646,Rwanda,141,"1,937,761",Medium confidence
+Sub-Saharan Africa,710,South Africa,47,"2,819,981",Medium confidence
+Western Asia,634,Qatar,93,"250,830",High confidence
+Western Asia,682,Saudi Arabia,105,"3,818,681",High confidence
+Western Europe,250,France,61,"3,942,430",Eurostat
+Western Europe,276,Germany,78,"6,502,860",Eurostat
+Western Europe,528,Netherlands,59,"1,036,040",Eurostat
+Western Europe,756,Switzerland,119,"1,041,879",Medium confidence
