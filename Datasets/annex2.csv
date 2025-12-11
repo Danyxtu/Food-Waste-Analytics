@@ -1,0 +1,15 @@
+Sector,Country,Study Area,Waste Estimate (kg/capita/year),Type
+Household,Belize,San Ignacio (Urban),95,Urban
+Household,Belize,Caye Caulker (Rural),45,Rural
+Household,Indonesia,Surabaya (Urban),77,Urban
+Household,Indonesia,Blueleng (Rural),20,Rural
+Household,Malaysia,Bandar Baru Bangi (Urban),71,Urban
+Household,Malaysia,Sungai Asap (Rural),81,Rural
+Household,Mongolia,Ulaanbaatar (Urban),29,Urban
+Household,Mongolia,Khishig-Undur (Rural),6,Rural
+Household,Pakistan,Gujranwala (Urban),88,Urban
+Household,Pakistan,Gujranwala (Rural),60,Rural
+Household,India,Dehradun (Urban),73,Urban
+Household,Viet Nam,Da Nang (Urban),67,Urban
+Household,Kenya,Nairobi (Urban),100,Urban
+Household,Kenya,Homa Bay (Rural),40,Rural
